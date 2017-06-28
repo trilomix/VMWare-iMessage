@@ -102,6 +102,7 @@ Add following to the .vmx file.
     efi.nvram.var.MLB = "FFF"
 
 Replace EEE with the ROM value and FFF with the MLB value, save and start your VM again.
+OR try with this MLB efi.nvram.var.MLB = "W80AxxxxxxA1A" by replace xxxxxx by any thing like ABC123.
 
 ## 4. GO!
 
